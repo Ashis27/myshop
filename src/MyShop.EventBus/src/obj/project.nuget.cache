@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tArQviHjzUorcnsZOZPgAbhEzar3Im5MvjzdXCwKKPG9bMDb65Dmq0a2vARc+xTMhvQoSa1PFzoD4c42K/DYUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahapaa\\Desktop\\Projects\\Microservices\\Microservice\\myShopContainer\\src\\MyShop.EventBus\\src\\MyShop.EventBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahapaa\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\mahapaa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\mahapaa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mahapaa\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512",
+    "C:\\Users\\mahapaa\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahapaa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

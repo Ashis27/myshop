@@ -1,0 +1,586 @@
+20:20 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:21 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:23 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:23 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:23 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:23 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:23 [Information] [] : Notification is sent on same window time.
+20:23 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:23 [Information] [] : Notification is sent on same window time.
+20:23 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:23 [Information] [] : Notification is sent on same window time.
+20:23 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:23 [Information] [] : Notification is sent on same window time.
+20:24 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:24 [Information] [] : Notification is sent on same window time.
+20:24 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:24 [Information] [] : Notification is sent on same window time.
+20:24 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:24 [Information] [] : Notification is sent on same window time.
+20:24 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:24 [Information] [] : Notification is sent on same window time.
+20:24 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:24 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:24 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:24 [Information] [] : Notification is sent on same window time.
+20:24 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:24 [Information] [] : Notification is sent on same window time.
+20:25 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:25 [Information] [] : Notification is sent on same window time.
+20:25 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:25 [Information] [] : Notification is sent on same window time.
+20:25 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:25 [Information] [] : Notification is sent on same window time.
+20:25 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:25 [Information] [] : Notification is sent on same window time.
+20:25 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:25 [Information] [] : Notification is sent on same window time.
+20:25 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:25 [Information] [] : Notification is sent on same window time.
+20:25 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:25 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:26 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:26 [Information] [] : Notification is sent on same window time.
+20:26 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:26 [Information] [] : Notification is sent on same window time.
+20:26 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:26 [Information] [] : Notification is sent on same window time.
+20:26 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:26 [Information] [] : Notification is sent on same window time.
+20:26 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:26 [Information] [] : Notification is sent on same window time.
+20:26 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:26 [Information] [] : Notification is sent on same window time.
+20:26 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:26 [Information] [] : Notification is sent on same window time.
+20:26 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:26 [Information] [] : Notification is sent on same window time.
+20:26 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:27 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:27 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:27 [Information] [] : Notification is sent on same window time.
+20:27 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:27 [Information] [] : Notification is sent on same window time.
+20:27 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:27 [Information] [] : Notification is sent on same window time.
+20:27 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:27 [Information] [] : Notification is sent on same window time.
+20:27 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:27 [Information] [] : Notification is sent on same window time.
+20:27 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:27 [Information] [] : Notification is sent on same window time.
+20:27 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:27 [Information] [] : Notification is sent on same window time.
+20:27 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:27 [Information] [] : Notification is sent on same window time.
+20:28 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:28 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:28 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:28 [Information] [] : Notification is sent on same window time.
+20:28 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:28 [Information] [] : Notification is sent on same window time.
+20:28 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:28 [Information] [] : Notification is sent on same window time.
+20:28 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:28 [Information] [] : Notification is sent on same window time.
+20:28 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:28 [Information] [] : Notification is sent on same window time.
+20:28 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:28 [Information] [] : Notification is sent on same window time.
+20:29 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:29 [Information] [] : Notification is sent on same window time.
+20:29 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:29 [Information] [] : Notification is sent on same window time.
+20:29 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:29 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:29 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:29 [Information] [] : Notification is sent on same window time.
+20:29 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:29 [Information] [] : Notification is sent on same window time.
+20:29 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:29 [Information] [] : Notification is sent on same window time.
+20:29 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:29 [Information] [] : Notification is sent on same window time.
+20:30 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:30 [Information] [] : Notification is sent on same window time.
+20:30 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:30 [Information] [] : Notification is sent on same window time.
+20:30 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:30 [Information] [] : Notification is sent on same window time.
+20:30 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:30 [Information] [] : Notification is sent on same window time.
+20:30 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:30 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:30 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:30 [Information] [] : Notification is sent on same window time.
+20:30 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:30 [Information] [] : Notification is sent on same window time.
+20:30 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:30 [Information] [] : Notification is sent on same window time.
+20:31 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:31 [Information] [] : Notification is sent on same window time.
+20:31 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:31 [Information] [] : Notification is sent on same window time.
+20:31 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:31 [Information] [] : Notification is sent on same window time.
+20:31 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:31 [Information] [] : Notification is sent on same window time.
+20:31 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:31 [Information] [] : Notification is sent on same window time.
+20:31 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:31 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:31 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:31 [Information] [] : Notification is sent on same window time.
+20:31 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:31 [Information] [] : Notification is sent on same window time.
+20:32 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:32 [Information] [] : Notification is sent on same window time.
+20:32 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:32 [Information] [] : Notification is sent on same window time.
+20:32 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:32 [Information] [] : Notification is sent on same window time.
+20:32 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:32 [Information] [] : Notification is sent on same window time.
+20:32 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:32 [Information] [] : Notification is sent on same window time.
+20:32 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:32 [Information] [] : Notification is sent on same window time.
+20:32 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:32 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:33 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:33 [Information] [] : Notification is sent on same window time.
+20:33 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:33 [Information] [] : Notification is sent on same window time.
+20:33 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:33 [Information] [] : Notification is sent on same window time.
+20:33 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:33 [Information] [] : Notification is sent on same window time.
+20:33 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:33 [Information] [] : Notification is sent on same window time.
+20:33 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:33 [Information] [] : Notification is sent on same window time.
+20:33 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:33 [Information] [] : Notification is sent on same window time.
+20:33 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:33 [Information] [] : Notification is sent on same window time.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:34 [Information] [] : Notification is sent on same window time.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:34 [Information] [] : Notification is sent on same window time.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:34 [Information] [] : Notification is sent on same window time.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:34 [Information] [] : Notification is sent on same window time.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:34 [Information] [] : Notification is sent on same window time.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:34 [Information] [] : Notification is sent on same window time.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:34 [Information] [] : Notification is sent on same window time.
+20:34 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:34 [Information] [] : Notification is sent on same window time.
+20:35 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:35 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:35 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:35 [Information] [] : Notification is sent on same window time.
+20:35 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:35 [Information] [] : Notification is sent on same window time.
+20:35 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:35 [Information] [] : Notification is sent on same window time.
+20:35 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:35 [Information] [] : Notification is sent on same window time.
+20:35 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:35 [Information] [] : Notification is sent on same window time.
+20:35 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:35 [Information] [] : Notification is sent on same window time.
+20:36 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:36 [Information] [] : Notification is sent on same window time.
+20:36 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:36 [Information] [] : Notification is sent on same window time.
+20:36 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:36 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:36 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:36 [Information] [] : Notification is sent on same window time.
+20:36 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:36 [Information] [] : Notification is sent on same window time.
+20:36 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:36 [Information] [] : Notification is sent on same window time.
+20:36 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:36 [Information] [] : Notification is sent on same window time.
+20:37 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:37 [Information] [] : Notification is sent on same window time.
+20:37 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:37 [Information] [] : Notification is sent on same window time.
+20:37 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:37 [Information] [] : Notification is sent on same window time.
+20:37 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:37 [Information] [] : Notification is sent on same window time.
+20:37 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:37 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:37 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:37 [Information] [] : Notification is sent on same window time.
+20:37 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:37 [Information] [] : Notification is sent on same window time.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:38 [Information] [] : Notification is sent on same window time.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:38 [Information] [] : Notification is sent on same window time.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:38 [Information] [] : Notification is sent on same window time.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:38 [Information] [] : Notification is sent on same window time.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:38 [Information] [] : Notification is sent on same window time.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:38 [Information] [] : Notification is sent on same window time.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:38 [Information] [] : Notification is sent on same window time.
+20:38 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:38 [Information] [] : Notification is sent on same window time.
+20:39 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:39 [Information] [] : Notification is sent on same window time.
+20:39 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:39 [Information] [] : Notification is sent on same window time.
+20:39 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:39 [Information] [] : Notification is sent on same window time.
+20:39 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:39 [Information] [] : Notification is sent on same window time.
+20:39 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:39 [Information] [] : Notification is sent on same window time.
+20:39 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:39 [Information] [] : Notification is sent on same window time.
+20:39 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:39 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:40 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:40 [Information] [] : Notification is sent on same window time.
+20:40 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:40 [Information] [] : Notification is sent on same window time.
+20:40 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:40 [Information] [] : Notification is sent on same window time.
+20:40 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:40 [Information] [] : Notification is sent on same window time.
+20:40 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:40 [Information] [] : Notification is sent on same window time.
+20:40 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:40 [Information] [] : Notification is sent on same window time.
+20:40 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:40 [Information] [] : Notification is sent on same window time.
+20:40 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:40 [Information] [] : Notification is sent on same window time.
+20:41 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:41 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:41 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:41 [Information] [] : Notification is sent on same window time.
+20:41 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:41 [Information] [] : Notification is sent on same window time.
+20:41 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:41 [Information] [] : Notification is sent on same window time.
+20:41 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:41 [Information] [] : Notification is sent on same window time.
+20:41 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:41 [Information] [] : Notification is sent on same window time.
+20:42 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:42 [Information] [] : Notification is sent on same window time.
+20:42 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:42 [Information] [] : Notification is sent on same window time.
+20:42 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:42 [Information] [] : Notification is sent on same window time.
+20:42 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:42 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:42 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:42 [Information] [] : Notification is sent on same window time.
+20:42 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:42 [Information] [] : Notification is sent on same window time.
+20:42 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:42 [Information] [] : Notification is sent on same window time.
+20:42 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:42 [Information] [] : Notification is sent on same window time.
+20:43 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:43 [Information] [] : Notification is sent on same window time.
+20:43 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:43 [Information] [] : Notification is sent on same window time.
+20:43 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:43 [Information] [] : Notification is sent on same window time.
+20:43 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:43 [Information] [] : Notification is sent on same window time.
+20:44 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:45 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:45 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:45 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:45 [Information] [] : Notification is sent on same window time.
+20:45 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:45 [Information] [] : Notification is sent on same window time.
+20:45 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:45 [Information] [] : Notification is sent on same window time.
+20:46 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:46 [Information] [] : Notification is sent on same window time.
+20:46 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:46 [Information] [] : Notification is sent on same window time.
+20:46 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:46 [Information] [] : Notification is sent on same window time.
+20:46 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:46 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:46 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:46 [Information] [] : Notification is sent on same window time.
+20:46 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:46 [Information] [] : Notification is sent on same window time.
+20:46 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:46 [Information] [] : Notification is sent on same window time.
+20:46 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:46 [Information] [] : Notification is sent on same window time.
+20:47 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:47 [Information] [] : Notification is sent on same window time.
+20:47 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:47 [Information] [] : Notification is sent on same window time.
+20:47 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:47 [Information] [] : Notification is sent on same window time.
+20:47 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:47 [Information] [] : Notification is sent on same window time.
+20:47 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:48 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:48 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:48 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:48 [Information] [] : Notification is sent on same window time.
+20:48 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:48 [Information] [] : Notification is sent on same window time.
+20:48 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:48 [Information] [] : Notification is sent on same window time.
+20:48 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:48 [Information] [] : Notification is sent on same window time.
+20:48 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:48 [Information] [] : Notification is sent on same window time.
+20:48 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:48 [Information] [] : Notification is sent on same window time.
+20:49 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:49 [Information] [] : Notification is sent on same window time.
+20:49 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:49 [Information] [] : Notification is sent on same window time.
+20:49 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:49 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:49 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7001/hc configured with name Basket HTTP Check.
+20:49 [Information] [] : Notification is sent on same window time.
+20:49 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:7002/hc configured with name Catalog HTTP Background Check.
+20:49 [Information] [] : Notification is sent on same window time.
+20:51 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:53 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:55 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:55 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+20:55 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+20:55 [Information] [] : Notification is sent on same window time.
+21:03 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+21:03 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:04 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:04 [Information] [] : Notification is sent on same window time.
+21:04 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:04 [Information] [] : Notification is sent on same window time.
+21:04 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+21:05 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:05 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:05 [Information] [] : Notification is sent on same window time.
+21:05 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:05 [Information] [] : Notification is sent on same window time.
+21:05 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:05 [Information] [] : Notification is sent on same window time.
+21:05 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:05 [Information] [] : Notification is sent on same window time.
+21:06 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:06 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:06 [Information] [] : Notification is sent on same window time.
+21:06 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:06 [Information] [] : Notification is sent on same window time.
+21:06 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:06 [Information] [] : Notification is sent on same window time.
+21:06 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:06 [Information] [] : Notification is sent on same window time.
+21:07 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:07 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:07 [Information] [] : Notification is sent on same window time.
+21:07 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:07 [Information] [] : Notification is sent on same window time.
+21:07 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:07 [Information] [] : Notification is sent on same window time.
+21:07 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:07 [Information] [] : Notification is sent on same window time.
+21:08 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:08 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:08 [Information] [] : Notification is sent on same window time.
+21:08 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:08 [Information] [] : Notification is sent on same window time.
+21:08 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:08 [Information] [] : Notification is sent on same window time.
+21:08 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:08 [Information] [] : Notification is sent on same window time.
+21:11 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+21:11 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:11 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:11 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:11 [Information] [] : Notification is sent on same window time.
+21:11 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:11 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:11 [Information] [] : Notification is sent on same window time.
+21:11 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:12 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:12 [Information] [] : Notification is sent on same window time.
+21:12 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:12 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:12 [Information] [] : Notification is sent on same window time.
+21:12 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:13 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+21:13 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:13 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:13 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:13 [Information] [] : Notification is sent on same window time.
+21:13 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:13 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:13 [Information] [] : Notification is sent on same window time.
+21:13 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:14 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:14 [Information] [] : Notification is sent on same window time.
+21:14 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:14 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:14 [Information] [] : Notification is sent on same window time.
+21:14 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:14 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:14 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:14 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+21:15 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:15 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:15 [Information] [] : Notification is sent on same window time.
+21:15 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:15 [Information] [] : Notification is sent on same window time.
+21:16 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+21:16 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:16 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:16 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:16 [Information] [] : Notification is sent on same window time.
+21:16 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:16 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:16 [Information] [] : Notification is sent on same window time.
+21:16 [Error] [] : HealthCheck collector HostedService threw an error: "Value cannot be null. (Parameter 'source')"
+21:18 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+21:18 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:18 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:18 [Error] [] : GetHealthReport threw an exception when trying to get report from https://www.hanselminutes.com/hc configured with name 3rd party API.
+21:18 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:47098/hc configured with name Basket HTTP Check.
+21:18 [Information] [] : Notification is sent on same window time.
+21:18 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:18 [Information] [] : Notification is sent on same window time.
+21:18 [Error] [] : GetHealthReport threw an exception when trying to get report from https://www.hanselminutes.com/hc configured with name 3rd party API.
+21:18 [Information] [] : Notification is sent on same window time.
+20:09 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:10 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:10 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:10 [Information] [] : Notification is sent on same window time.
+20:10 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:10 [Information] [] : Notification is sent on same window time.
+20:10 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:10 [Information] [] : Notification is sent on same window time.
+20:10 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:10 [Information] [] : Notification is sent on same window time.
+20:11 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:11 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:11 [Information] [] : Notification is sent on same window time.
+20:11 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:11 [Information] [] : Notification is sent on same window time.
+20:11 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:11 [Information] [] : Notification is sent on same window time.
+20:11 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:11 [Information] [] : Notification is sent on same window time.
+20:12 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:12 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:12 [Information] [] : Notification is sent on same window time.
+20:12 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:12 [Information] [] : Notification is sent on same window time.
+20:12 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:12 [Information] [] : Notification is sent on same window time.
+20:12 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:12 [Information] [] : Notification is sent on same window time.
+20:13 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:14 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:14 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:14 [Information] [] : Notification is sent on same window time.
+20:14 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:14 [Information] [] : Notification is sent on same window time.
+20:14 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:14 [Information] [] : Notification is sent on same window time.
+20:14 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:14 [Information] [] : Notification is sent on same window time.
+20:15 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:15 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:15 [Information] [] : Notification is sent on same window time.
+20:15 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:15 [Information] [] : Notification is sent on same window time.
+20:15 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:15 [Information] [] : Notification is sent on same window time.
+20:15 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:15 [Information] [] : Notification is sent on same window time.
+20:16 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:16 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:16 [Information] [] : Notification is sent on same window time.
+20:16 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:16 [Information] [] : Notification is sent on same window time.
+20:16 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:16 [Information] [] : Notification is sent on same window time.
+20:17 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:17 [Information] [] : Notification is sent on same window time.
+20:17 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:17 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:17 [Information] [] : Notification is sent on same window time.
+20:17 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:17 [Information] [] : Notification is sent on same window time.
+20:48 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:49 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:49 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:49 [Information] [] : Notification is sent on same window time.
+20:50 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:50 [Information] [] : Notification is sent on same window time.
+20:50 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:50 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:50 [Information] [] : Notification is sent on same window time.
+20:51 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:51 [Information] [] : Notification is sent on same window time.
+20:51 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:52 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:52 [Information] [] : Notification is sent on same window time.
+20:52 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:52 [Information] [] : Notification is sent on same window time.
+20:52 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:53 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:53 [Information] [] : Notification is sent on same window time.
+20:53 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:53 [Information] [] : Notification is sent on same window time.
+20:55 [Information] [] : Configuring web host ("MyShop.HealthCheckStatus")...
+20:56 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:57 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:57 [Information] [] : Notification is sent on same window time.
+20:58 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:58 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:58 [Information] [] : Notification is sent on same window time.
+20:59 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:59 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+20:59 [Information] [] : Notification is sent on same window time.
+21:00 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:00 [Information] [] : Notification is sent on same window time.
+21:00 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:00 [Information] [] : Notification is sent on same window time.
+21:00 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:00 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:00 [Information] [] : Notification is sent on same window time.
+21:01 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:01 [Information] [] : Notification is sent on same window time.
+21:01 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:01 [Information] [] : Notification is sent on same window time.
+21:03 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:03 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:03 [Information] [] : Notification is sent on same window time.
+21:03 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:03 [Information] [] : Notification is sent on same window time.
+21:04 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:04 [Information] [] : Notification is sent on same window time.
+21:04 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
+21:04 [Information] [] : Notification is sent on same window time.
+21:04 [Error] [] : GetHealthReport threw an exception when trying to get report from http://localhost:62514/hc configured with name Catalog HTTP Background Check.
